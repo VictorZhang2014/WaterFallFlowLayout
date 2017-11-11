@@ -2,9 +2,7 @@
 A Water Fall Flow Layout demo for Objective-C and Swift
 
 ## Effect Figures
-![WaterFallFlowLayout_1](https://github.com/VictorZhang2014/WaterFallFlowLayout/blob/master/WaterFallFlowLayout_1.jpeg)
-
-![WaterFallFlowLayout_2](https://github.com/VictorZhang2014/WaterFallFlowLayout/blob/master/WaterFallFlowLayout_2.jpeg)
+<img src="https://github.com/VictorZhang2014/WaterFallFlowLayout/blob/master/WaterFallFlowLayout_1.jpg" alt="" width="300" height="500" /><img src="https://github.com/VictorZhang2014/WaterFallFlowLayout/blob/master/WaterFallFlowLayout_2.jpg" alt="" width="300" height="500" />
 
 ## Tutorial 
-[Tutorial Link](http://www.googleplus.party/archives/page/3/)
+[Tutorial Link](http://www.googleplus.party/2017/11/11/iOS瀑布流/)
